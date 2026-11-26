@@ -1,0 +1,13 @@
+{
+  "id": "player_history",
+  "name": "Player History",
+  "description": "Clean live board of players met in dungeons: search, presence lights, useful totals, friends-only manager sorted by Online Tracker activity, join, add, block, unfriend and remove.",
+  "version": "0.5.2",
+  "author": "You",
+  "api": "1.2.1",
+  "entry": "Main",
+  "uses": [
+    "extends"
+  ],
+  "drh": "18"
+}
