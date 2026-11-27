@@ -1,0 +1,13 @@
+{
+  "id": "player_history",
+  "name": "Player History",
+  "description": "Live board of players met in dungeons: search, cup counts, friends-only manager, gifts, join, add, block and remove.",
+  "version": "0.5.8",
+  "author": "Verox",
+  "api": "1.3",
+  "entry": "Main",
+  "uses": [
+    "extends"
+  ],
+  "drh": "18"
+}
