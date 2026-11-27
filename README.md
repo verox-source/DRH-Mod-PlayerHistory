@@ -1,4 +1,3 @@
-# PlayerHisotry-by-verox
 # Player History
 
 GPL-3.0 license
@@ -82,4 +81,3 @@ More small improvements in upcoming versions:
 - Optional export/import of `players.json` for moving history between PCs.
 - More activity detail from Online Tracker, such as gift and last-seen trends.
 - Extra bulk actions for joining and requesting friends.
-
